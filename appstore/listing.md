@@ -2,9 +2,9 @@
 
 all text below is meant to be pasted into app store connect as is.
 
-## name (17/30)
+## name (18/30)
 
-clutter raideteam
+clutter: raideteam
 
 ## subtitle (29/30)
 

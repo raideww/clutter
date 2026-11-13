@@ -128,7 +128,7 @@ Design like Apple's own iPhone apps: **Notes, Calendar, Files (the iPhone counte
 - App names are **always lowercase** — on the Home Screen, in the App Store, and inside the app (e.g. `photo box`, `scan`).
 - Names should be clear, short, and describe the job.
 - **App Store listing name:** append the team name to the right of the app name so the name is unique and accepted by the App Store:
-  - `<appname> raideteam`
+  - `<appname>: raideteam`
 - Team name is always written in lowercase: **raideteam**.
 
 ---
@@ -137,7 +137,7 @@ Design like Apple's own iPhone apps: **Notes, Calendar, Files (the iPhone counte
 
 Based on the App Store Review Guidelines. Breaking these leads to rejection.
 
-- **Lowercase names are allowed.** No rule covers letter case. App Store Connect requires the name to be **2–30 characters**, so `<appname> raideteam` must fit in 30 characters (`raideteam` + space takes 10).
+- **Lowercase names are allowed.** No rule covers letter case. App Store Connect requires the name to be **2–30 characters**, so `<appname>: raideteam` must fit in 30 characters (`: raideteam` takes 11).
 - **Unique name (2.3.7).** Don't stuff the name, subtitle, or keywords with trademarks, popular app names, or prices (no "free" in the name).
 - **No copycats (4.1, 5.2.1).** We build free *alternatives*, not clones. Never use another app's name, icon, branding, screenshots, or copy its UI one-to-one. Never mention the paid app we replace in the name, subtitle, or metadata.
 - **No spam (4.3).** Apple rejects new apps in saturated categories (flashlight, simple timers, wallpapers, sound effects, etc.) unless they're meaningfully better. Each app needs a clear reason to exist.
@@ -172,7 +172,7 @@ Before shipping any feature, screen, or app, confirm:
 - [ ] Only semantic system colors are used (nothing hard-coded); state is never shown by color alone.
 - [ ] Black and white dominate; accent color is used only where it matters.
 - [ ] The icon is simple, made in Icon Composer, has no text, and works in default/dark/clear/tinted.
-- [ ] The name is one or two words, lowercase; App Store name is `<appname> raideteam`.
+- [ ] The name is one or two words, lowercase; App Store name is `<appname>: raideteam`.
 - [ ] Every piece of interface text is lowercase.
 - [ ] App Store name is ≤ 30 characters, with no trademarks, prices, or other apps' names; the app isn't a clone.
 - [ ] No unnecessary features, screens, or dependencies were added.
