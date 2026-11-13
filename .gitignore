@@ -1,0 +1,15 @@
+# xcodegen output
+clutter.xcodeproj/
+
+# xcode
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.swiftpm/
+
+# macos
+.DS_Store
+
+# work in progress, committed later
+icon/options/

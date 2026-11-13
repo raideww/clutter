@@ -1,0 +1,99 @@
+{
+  "fill": {
+    "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+  },
+  "fill-specializations": [
+    {
+      "appearance": "dark",
+      "value": {
+        "solid": "srgb:0.00000,0.00000,0.00000,1.00000"
+      }
+    }
+  ],
+  "groups": [
+    {
+      "layers": [
+        {
+          "image-name": "card.svg",
+          "name": "card",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.00000,0.00000,0.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:1.00000,1.00000,1.00000,1.00000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "image-name": "middle.svg",
+          "name": "middle",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.55700,0.55700,0.55700,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.39000,0.39000,0.39000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.39000,0.39000,0.39000,1.00000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layers": [
+        {
+          "image-name": "back.svg",
+          "name": "back",
+          "fill-specializations": [
+            {
+              "value": {
+                "solid": "srgb:0.82000,0.82000,0.82000,1.00000"
+              }
+            },
+            {
+              "appearance": "dark",
+              "value": {
+                "solid": "srgb:0.23000,0.23000,0.23000,1.00000"
+              }
+            },
+            {
+              "appearance": "tinted",
+              "value": {
+                "solid": "srgb:0.23000,0.23000,0.23000,1.00000"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  }
+}
