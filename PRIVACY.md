@@ -39,4 +39,4 @@ if this policy changes, the new version will be posted here.
 
 ## contact
 
-contact: open an issue on the github repository
+contact: open an issue on the [github repository](https://github.com/raideww/clutter)
